@@ -1,6 +1,7 @@
 # 📚 StudyBuddy AI – Your Smart Learning & Organization Assistant
 
-![StudyBuddy Banner](./assets/banner.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3be8c615-a0c1-4879-b91a-23a938881dd2" />
+
 
 > An **AI-powered learning assistant** built with **Gemini AI**, designed to help students, developers, and professionals organize resources, ask questions, and generate **flowcharts** or **Mermaid diagrams** instantly.
 
