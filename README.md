@@ -125,10 +125,3 @@ This project is licensed under the **MIT License**.
 ### 💡 Fun Fact
 
 *"A good study buddy isn’t just a person – sometimes, it’s an AI that’s got your back 24/7."* 😄
-
-```
-
----
-
-If you want, I can **actually design** the `banner.png` and `assets/*.png` UI preview mockups so your README looks professional when uploaded to GitHub. That would make it pop visually.
-```
