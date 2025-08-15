@@ -20,12 +20,24 @@
 
 ## 🖼 UI Preview
 
-| Home Page | Dashboard | AI Chat |
-|-----------|-----------|--------|
-| <img width="1298" height="1008" alt="image" src="https://github.com/user-attachments/assets/5775bb8b-65a6-4850-83a7-d3d3250cf3b4" />
- | <img width="1298" height="832" alt="image" src="https://github.com/user-attachments/assets/17de1445-19ec-4c16-8f03-ceded770b1df" />
-| <img width="1298" height="754" alt="image" src="https://github.com/user-attachments/assets/a68f2341-3ed2-4fa4-a9f4-36b571ee8d21" />
- |
+<div style="display: flex; gap: 10px; overflow-x: auto; padding: 10px;">
+
+<div>
+  <h4>🏠 Home Page</h4>
+  <img src="https://github.com/user-attachments/assets/5775bb8b-65a6-4850-83a7-d3d3250cf3b4" alt="Home Page" width="400"/>
+</div>
+
+<div>
+  <h4>📊 Dashboard</h4>
+  <img src="https://github.com/user-attachments/assets/17de1445-19ec-4c16-8f03-ceded770b1df" alt="Dashboard" width="400"/>
+</div>
+
+<div>
+  <h4>💬 AI Chat</h4>
+  <img src="https://github.com/user-attachments/assets/a68f2341-3ed2-4fa4-a9f4-36b571ee8d21" alt="AI Chat" width="400"/>
+</div>
+
+</div>
 
 ---
 
